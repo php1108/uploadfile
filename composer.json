@@ -1,8 +1,11 @@
 {
     "name": "zhou/uploadfile",
-    "description": "一个文件上传包",
+    "description": "文件上传类",
     "type": "library",
     "require": {
+        "php": ">=5.4.0"
+    },
+    "require-dev": {
         "php": ">=5.4.0"
     },
     "license": "MIT",
@@ -12,10 +15,5 @@
             "email": "php1108@126.com"
         }
     ],
-    "minimum-stability": "dev",
-    "autoload": {
-        "psr-4": {
-            "Zhou\\": "src/"
-        }
-    }
+    "minimum-stability": "dev"
 }

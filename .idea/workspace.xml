@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="44116d12-d9d2-4a7c-8c33-f7be9a6e6e71" name="Default" comment="">
       <change type="DELETED" beforePath="$PROJECT_DIR$/composer.json" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -153,16 +152,6 @@
               <item name="uploadfile" type="b2602c69:ProjectViewProjectNode" />
               <item name="uploadfile" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="uploadfile" type="b2602c69:ProjectViewProjectNode" />
-              <item name="uploadfile" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="uploadfile" type="b2602c69:ProjectViewProjectNode" />
-              <item name="uploadfile" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="test" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -201,12 +190,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1521885915228</updated>
-      <workItem from="1521885916671" duration="3483000" />
+      <workItem from="1521885916671" duration="4110000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3483000" />
+    <option name="totallyTimeSpent" value="4110000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="955" y="706" width="3025" height="1659" extended-state="0" />
